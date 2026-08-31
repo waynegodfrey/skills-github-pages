@@ -2,7 +2,7 @@
 title: Dermatomyositis Treatment Options
 ---
 
-# Dermatomyositis Treatment Options: Comparison of Three Medications
+# Comparison of Three Medications
 
 **Prepared:** August 27, 2026
 
