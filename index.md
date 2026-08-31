@@ -10,4 +10,4 @@ The three medications under consideration are **Rinvoq (upadacitinib)**, **azath
 
 **Important framing:** None of the three is FDA-approved for dermatomyositis. All would be prescribed off-label. Only corticosteroids and IVIG (Octagam) carry an approved DM indication. This is therefore a comparison of evidence quality, safety, and practicality rather than approved vs. unapproved.
 
-[[./_posts/2026-08-31-MyFirstBlogPost.md]]
+[My First Blog Post](_posts/2026-08-31-MyFirstBlogPost)
